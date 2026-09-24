@@ -1,7 +1,11 @@
 # ShopSphere
 
-Production-style distributed e-commerce platform built with Java 25, Spring
-Boot, Spring Cloud, Kafka, Redis, MySQL and Docker.
+ShopSphere is a microservices-based e-commerce platform built with Java 25,
+Spring Boot, Spring Cloud, Kafka, Redis, MySQL, and Docker.
+
+The project is being developed in phases, with authentication, product
+management, service discovery, centralized configuration, API gateway,
+and a React frontend implemented first.
 
 ## Build status
 
