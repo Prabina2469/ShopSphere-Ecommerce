@@ -32,7 +32,7 @@ with a note explaining why.
 ## Quick start
 
 ### Prerequisites
-- Java 25
+- Java 17
 - Maven 3.9+
 - Docker + Docker Compose
 
